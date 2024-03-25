@@ -1,4 +1,8 @@
-# FirstApplication
+# Prática PWEB-1
+
+Esta prática visa introduzir conceitos inicias do framework Angular.
+
+## FirstApplication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
